@@ -6,11 +6,6 @@ public class Addition {
 		// TODO Auto-generated method stub
 
 
-		int x;
-		int y;
-
-		int c = x+y;
-
 
 
 	}
